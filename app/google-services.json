@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "343360691025",
+    "firebase_url": "https://quizonline-fb92a-default-rtdb.firebaseio.com",
+    "project_id": "quizonline-fb92a",
+    "storage_bucket": "quizonline-fb92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343360691025:android:a0ba9644922ce3dfe6d170",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUZTQEL8Fq0tbqYKLlDEvrFoCXox_pKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343360691025:android:5237736c37a9d7a3e6d170",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.quizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUZTQEL8Fq0tbqYKLlDEvrFoCXox_pKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
